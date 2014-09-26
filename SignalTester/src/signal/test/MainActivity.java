@@ -67,7 +67,7 @@ public class MainActivity extends Activity {
 				}else
 				{
 					locDisplaylat.setText("GPS is not turned on");
-					locDisplaylon.setText("");
+					locDisplaylon.setText("Test 1");
 				}
 			}
 		});
